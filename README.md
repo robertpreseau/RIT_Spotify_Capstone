@@ -1,4 +1,4 @@
-![alt text](https://https://github.com/robertpreseau/RIT_Spotify_Capstone/spotify.jpg?raw=true)
+![alt text](https://github.com/robertpreseau/RIT_Spotify_Capstone/blob/master/spotify.jpg?raw=true)
 
 # Spotify Skip Prediction
 
